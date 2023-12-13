@@ -1,4 +1,5 @@
 ### 👋ハロハロー～～～
+<div style="width:20px;height:20px;background:#000;border-radius:5px;"></div>
 ```Javascript
 function logCharImageByChromeErrorPage(){
   console.log(`
